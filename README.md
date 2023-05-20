@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Dipak 👋
 
+<p align="center">
+  <a href="https://github.com/dipaktapase">
+    <img src="https://komarev.com/ghpvc/?username=dipaktapase&color=blue&style=flat)" />
+  </a>
+</p>
 <!--
 **dipaktapase/dipaktapase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
