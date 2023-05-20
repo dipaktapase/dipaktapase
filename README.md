@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,js,react,redux,html,css,mongodb,mysql,nodejs)]
+[![My Skills](https://skillicons.dev/icons?i=solidity,js,react,redux,html,css,mongodb,mysql,nodejs)]()
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidity.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
