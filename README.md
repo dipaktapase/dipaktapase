@@ -1,5 +1,17 @@
 ### Hi there, I'm Dipak 👋
 
+### Connect with me:
+
+### Languages and Tools:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidity.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" />
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" /> -->
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" /> -->
+
 <p align="center">
   <a href="https://github.com/dipaktapase">
     <img src="https://komarev.com/ghpvc/?username=dipaktapase&color=blue&style=flat)" />
