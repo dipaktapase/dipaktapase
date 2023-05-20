@@ -4,11 +4,12 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidity.svg" />
+[![My Skills](https://skillicons.dev/icons?i=solidity,js,react,redux,html,css,mongodb,mysql,nodejs)](https://skillicons.dev)
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidity.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" /> -->
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" /> -->
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" /> -->
 
