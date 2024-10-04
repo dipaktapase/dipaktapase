@@ -2,8 +2,8 @@
 
 <br />
 
-- 🔭 I’m currently working on Full Stack Web Developoment.
-<!--  🌱 I’m currently learning Smart Contract Auditing. -->
+- 🔭 I’m currently working on Full Stack Web3 Developoment.
+- 🌱 I’m currently learning Smart Contract Auditing.
 
 ### Connect with me:
 
@@ -20,6 +20,7 @@
 <p  >
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/solidity.svg" alt="solidity" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="/logo/rust.svg" alt="rust" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/etherjs.svg" alt="etherjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/html.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/reactjs.svg" alt="reactjs" width="40" height="40"/>
@@ -28,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/mongodb.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/mysql.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/git.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/hardhat.svg" alt="hardhat" width="40" height="40"/>
+  <img src="/logo/hardhat-logo.png" alt="hardhat" width="40" height="40"/>
 </p>
 
 <br />
