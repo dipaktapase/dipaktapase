@@ -20,6 +20,7 @@
 <p  >
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/solidity.svg" alt="solidity" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/refs/heads/master/logo/ts.png" alt="ts" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/refs/heads/master/logo/rust-logo.png" alt="rust" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/etherjs.svg" alt="etherjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dipaktapase/dipaktapase/c015ba51eda259830ea4ae5c93db21041becd76a/logo/html.svg" alt="html" width="40" height="40"/>
